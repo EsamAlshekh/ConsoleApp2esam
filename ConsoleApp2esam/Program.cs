@@ -10,6 +10,7 @@ namespace ConsoleApp2esam
     {
         static void Main(string[] args)
         {
+            int? sum = null;
         }
     }
 }
